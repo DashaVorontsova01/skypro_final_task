@@ -10,6 +10,8 @@
 7. Исправлена команда <a href="html/cmd.html">Командная строка Windows</a> на <a href="cmd.html">Командная строка Windows</a>
 8. Исправлена команда <a href="html/git.html">Командная строка Windows</a> на <a href="git.html">Командная строка Windows</a>
 9. Исправлена команда <a href="html/mac.html">Командная строка Windows</a> на <a href="mac.html">Командная строка Windows</a> 
+10. Элемент center устарел. Вместо него CSS в команде "<center><img" 
+11. 
 
 Файл cmd.html.
 1. В команду <p class="location" text-align="center"> добавила text
